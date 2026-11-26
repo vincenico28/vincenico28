@@ -1,159 +1,327 @@
 <div align="center">
 
-<!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0f14,50:0f293a,100:24d9c7&height=190&section=header&text=Vince%20Nico%20O.%20Escala&fontSize=42&fontColor=f8fafc&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%E2%80%A2%20AI%20%26%20Enterprise%20Systems%20Builder&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Vince Nico O. Escala Header Banner" />
+<!-- OLED Dark-Mode Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0F14,55:0F172A,100:11323A&height=175&section=header&text=VINCE%20NICO%20O.%20ESCALA&fontSize=38&fontColor=F8FAFC&fontAlignY=44&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20Enterprise%20%26%20AI%20Systems%20Architect&descAlignY=68&descSize=15&descColor=94A3B8&animation=fadeIn" width="100%" alt="Vince Nico O. Escala — Full-Stack Web & Mobile Developer" />
 
-<!-- Animated Typing Subheader -->
-<a href="https://vincenico28.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=24D9C7&center=true&vCenter=true&width=720&lines=Full-Stack+Web+%26+Mobile+Developer+%7C+Quezon+City%2C+PH;React+19+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+Enterprise+Systems+%26+AI+Computer+Vision+Apps;TESDA+NC+II+Certified+(Computer+Systems+Servicing);Open+to+300-Hour+OJT+%2F+Junior+Full-Stack+Developer+Roles" alt="Typing SVG" />
+<br />
+
+<!-- Terminal Typing Subheader (JetBrains Mono) -->
+<a href="https://vincenico28.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=950&color=24D9C7&center=true&vCenter=true&width=760&height=34&lines=%3E+Full-Stack+Web+%26+Mobile+Developer+%7C+Quezon+City%2C+PH;%3E+React+19+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+FastAPI;%3E+5%2B+Live+Production+Systems+%7C+Commission+System+Dev;%3E+TESDA+NC+II+Certified+(Computer+Systems+Servicing);%3E+Open+to+300-Hour+OJT+%2F+Junior+Full-Stack+Roles" alt="Developer Focus Typing Animation" />
 </a>
 
 <br />
 
-<!-- Quick Action Badges -->
+<!-- Primary Action Dock (Unified High-Contrast Dark System) -->
 <p align="center">
   <a href="https://vincenico28.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-vincenico28.vercel.app-24D9C7?style=for-the-badge&logo=vercel&logoColor=0c0f14" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-vincenico28.vercel.app-24D9C7?style=for-the-badge&logo=vercel&logoColor=0C0F14&labelColor=0F172A" alt="Live Portfolio" />
+  </a>
+  <a href="https://vincenico28.vercel.app/RESUME.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/ATS_RESUME-DOWNLOAD_PDF-22C55E?style=for-the-badge&logo=readthedocs&logoColor=0C0F14&labelColor=0F172A" alt="Download ATS Resume" />
   </a>
   <a href="https://www.linkedin.com/in/vince-nico-escala-b739613ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1E293B?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:Escalavincenico28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Escalavincenico28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-1E293B?style=for-the-badge&logo=gmail&logoColor=24D9C7&labelColor=0F172A" alt="Email Vince Nico" />
   </a>
-  <img src="https://img.shields.io/badge/TESDA-NC%20II%20CSS%20Certified-F59E0B?style=for-the-badge&logo=checkmarx&logoColor=0c0f14" alt="TESDA NC II" />
+</p>
+
+<!-- Status Indicator Strip -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_300HR_OJT_(QC_%2F_REMOTE)-22C55E?style=flat-square&labelColor=0F172A" alt="Open to 300-Hour OJT" />
+  <img src="https://img.shields.io/badge/CERTIFIED-TESDA_NC_II_(CSS)-24D9C7?style=flat-square&labelColor=0F172A" alt="TESDA NC II Certified" />
+  <img src="https://img.shields.io/badge/EDUCATION-BSIT_%40_BCP_(2023--2026)-38BDF8?style=flat-square&labelColor=0F172A" alt="BSIT Student" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## OVERVIEW
 
-Hi! I'm **Vince Nico O. Escala**, a motivated and detail-oriented **Full-Stack Web & Mobile Developer** and **BS Information Technology (BSIT)** student at **Bestlink College of the Philippines** (Quezon City, Metro Manila).
-
-Through **commission-based system development**, I architect, build, and deploy complete production systems end-to-end — from responsive UI/UX and native Android apps to PostgreSQL/Supabase databases, REST/RPC APIs, payment integrations, and AI computer vision microservices.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Engineering Profile</h3>
+      <p>
+        I am <strong>Vince Nico O. Escala</strong>, a Full-Stack Web &amp; Mobile Developer and BS Information Technology student based in <strong>Quezon City, Philippines</strong>.
+      </p>
+      <p>
+        Through <strong>commission-based system development</strong>, I architect, build, and deploy complete production applications end-to-end — covering accessible UI/UX, relational PostgreSQL/Supabase architectures, native Android builds, payment gateways, and AI computer vision microservices.
+      </p>
+      <p>
+        Backed by a <strong>TESDA National Certificate II (NC II) in Computer Systems Servicing</strong>, I bridge software architecture with hands-on hardware, LAN networking, and server diagnostics.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>Quick Facts</h3>
+      <table>
+        <tr>
+          <td><strong>Location</strong></td>
+          <td>Quezon City, Metro Manila, PH</td>
+        </tr>
+        <tr>
+          <td><strong>Availability</strong></td>
+          <td>300-Hr OJT / Junior Full-Stack</td>
+        </tr>
+        <tr>
+          <td><strong>Live Systems</strong></td>
+          <td>5+ Deployed Production Apps</td>
+        </tr>
+        <tr>
+          <td><strong>Qualification</strong></td>
+          <td>TESDA NC II (Cert. 25131402030939)</td>
+        </tr>
+        <tr>
+          <td><strong>Education</strong></td>
+          <td>BSIT — Bestlink College (2023–2026)</td>
+        </tr>
+        <tr>
+          <td><strong>Experience</strong></td>
+          <td>Freelance System Development</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ```ts
-const developer = {
+// developer.profile.ts
+export const developer = {
   name: "Vince Nico O. Escala",
-  location: "Quezon City, Metro Manila, Philippines",
-  education: "BS Information Technology — Bestlink College of the Philippines (2023–2026)",
-  certification: "TESDA National Certificate II (NC II) in Computer Systems Servicing",
-  experience: "Freelance Full-Stack Developer (Commission-Based System Development)",
-  currentlySeeking: "300-Hour OJT / Internship or Junior Full-Stack Developer Role",
-  focusAreas: [
-    "Full-Stack Web Apps (React 19, Next.js, TanStack Start, TypeScript)",
-    "Cross-Platform Mobile (Capacitor 8 / Native Android)",
-    "Backend & Cloud BaaS (Node.js, PHP/Laravel, FastAPI, PostgreSQL, Supabase)",
-    "AI Integration (OpenCV, YOLOv8, Facial Biometrics, Gemini & Ollama LLMs)",
-  ],
-  portfolio: "https://vincenico28.vercel.app/",
-};
+  role: "Full-Stack Web & Mobile Developer",
+  coreStack: ["React 19", "Next.js", "TypeScript", "TanStack Start", "Node.js", "PostgreSQL", "FastAPI"],
+  specialties: ["Enterprise HR & Logistics", "AI Computer Vision (YOLOv8 / OpenCV)", "PWA & Capacitor Android"],
+  status: "OPEN_FOR_300HR_OJT_AND_JUNIOR_ROLES",
+} as const;
 ```
 
 ---
 
-## 🚀 Featured Live Production Systems
+## FEATURED PRODUCTION SYSTEMS
 
-| Project | Overview | Core Stack | Live App |
-| :--- | :--- | :--- | :---: |
-| **Workforce Management Pro** *(Workforce PH)* | Enterprise HR & Workforce OS (PWA + Capacitor 8 Android) with **128D facial biometrics**, **≤35m GPS geofencing**, offline-first sync, **DOLE labor compliance** (Form 48 DTR), 18-table RLS, and a multi-model AI HR assistant. | `React 19` `TypeScript` `Capacitor 8` `Supabase` `FastAPI` `OpenCV` `dlib` `Gemini AI` | [🌐 Live](https://hr2.priority-handling.com/) |
-| **Flow Guardian** *(Smart City Traffic Ops)* | Municipal traffic enforcement & digital citations platform featuring **YOLOv8 vehicle/ANPR CCTV vision**, 911 dispatch board, GNSS field officer terminal with ESC/POS thermal citations (22 charges), and GCash/QR Ph citizen payments. | `React 19` `TanStack Start` `Nitro v3` `FastAPI` `YOLOv8` `Supabase` `Leaflet` `QR Ph` | [🌐 Live](https://ttmsqc.culiat-publicsafety.com/) |
-| **Priority Connect** *(PHL Connect Forge)* | Full-stack SSR enterprise logistics hub for Priority Handling Logistics, Inc., unifying **10 corporate subsystems** (HR, Finance, Logistics, Core Freight) with a 6-stage real-time shipment tracking engine. | `React 19` `TanStack Start` `TanStack Router` `Tailwind v4` `Radix UI` `Recharts` | [🌐 Live](https://priority-handling.com/) |
-| **BCP Smart Library** *(Institutional ILS)* | Campus Integrated Library System with **atomic barcode checkouts** (`FOR UPDATE` row locking), automated fine ledgers, study room booking, e-reader with APA/MLA/Chicago citations, and **QR-verifiable clearance certificates**. | `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Docker` | [🌐 Live](https://library-management-bcp-librarymanagement.hostforgeplatforms.com/) |
-| **L&A Marketing Connect** *(Surplus Commerce)* | Headless conversational e-commerce platform replacing checkout friction with zero-login **Facebook Messenger (`m.me`)** order generation, SSR-safe Zustand persistence, `Cmd+K` search, and 4-item comparison. | `React 19` `TanStack Start` `TypeScript` `Tailwind v4` `Zustand` `CMDK` `Vercel` | [🌐 Live](https://marketing-azure-three.vercel.app/) |
-| **Citizen Engagement System** *(CIES)* | Full-stack municipal issue reporting & live status tracking platform with admin triage dashboard and automated updates. | `React` `TypeScript` `Node.js` `Supabase` `Tailwind CSS` `Vite` | [🌐 Live](https://cies-bpm.netlify.app) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Workforce Management Pro <sub><code>Enterprise HR OS</code></sub></h3>
+      <p>
+        Cross-platform HR PWA &amp; native Android app featuring <strong>128D facial biometric verification</strong> (&lt;0.6 threshold + anti-spoofing liveness), <strong>&le;35m hardware GPS geofencing</strong>, zero-data-loss offline sync, 18-table PostgreSQL RLS, <strong>DOLE Philippine labor compliance</strong> (Form 48 DTR), and a multi-model AI HR assistant.
+      </p>
+      <p>
+        <code>React 19</code> <code>TypeScript</code> <code>Capacitor 8</code> <code>Supabase</code> <code>FastAPI</code> <code>OpenCV</code> <code>dlib</code> <code>Gemini AI</code>
+      </p>
+      <p>
+        <a href="https://hr2.priority-handling.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-hr2.priority--handling.com-24D9C7?style=flat-square&labelColor=0F172A" alt="Workforce Management Pro Live" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Flow Guardian <sub><code>Smart City &amp; AI Vision</code></sub></h3>
+      <p>
+        Municipal traffic operations &amp; digital citations suite combining a FastAPI <strong>YOLOv8 computer vision microservice</strong> (vehicle classification &amp; ANPR), 911 incident dispatch console, GNSS officer terminal with ESC/POS thermal slips (22 charges), GCash/QR Ph citizen payments, and a split-screen appeals adjudication studio.
+      </p>
+      <p>
+        <code>React 19</code> <code>TanStack Start</code> <code>Nitro v3</code> <code>FastAPI</code> <code>YOLOv8</code> <code>Supabase</code> <code>Leaflet</code> <code>QR Ph</code>
+      </p>
+      <p>
+        <a href="https://ttmsqc.culiat-publicsafety.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-ttmsqc.culiat--publicsafety.com-24D9C7?style=flat-square&labelColor=0F172A" alt="Flow Guardian Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Priority Connect <sub><code>Enterprise Logistics Portal</code></sub></h3>
+      <p>
+        Full-stack SSR enterprise portal for Priority Handling Logistics, Inc., uniting <strong>10 corporate subsystems</strong> across HR, Finance, Fleet/Warehouse, and Core Freight with a type-safe 6-stage real-time shipment milestone tracker and financial analytics.
+      </p>
+      <p>
+        <code>React 19</code> <code>TanStack Start</code> <code>TanStack Router</code> <code>Tailwind v4</code> <code>Radix UI</code> <code>Recharts</code> <code>Zod</code>
+      </p>
+      <p>
+        <a href="https://priority-handling.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-priority--handling.com-24D9C7?style=flat-square&labelColor=0F172A" alt="Priority Connect Live" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>BCP Smart Library <sub><code>Institutional ILS</code></sub></h3>
+      <p>
+        Campus Integrated Library System featuring <strong>atomic barcode circulation</strong> protected by PostgreSQL row locking (<code>FOR UPDATE</code> / <code>SKIP LOCKED</code>), automated fine ledgers, study room scheduling, e-reader with APA/MLA/Chicago citations, QR-verifiable clearance certificates, and 16 unit tests.
+      </p>
+      <p>
+        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://library-management-bcp-librarymanagement.hostforgeplatforms.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-BCP_SMART_LIBRARY-24D9C7?style=flat-square&labelColor=0F172A" alt="BCP Smart Library Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>L&amp;A Marketing Connect <sub><code>Conversational Commerce</code></sub></h3>
+      <p>
+        Headless surplus e-commerce platform replacing checkout abandonment with a <strong>zero-login order generator</strong> deep-linking structured receipts into Facebook Messenger (<code>m.me</code>), paired with SSR-safe Zustand persistence, <code>Cmd+K</code> search, and 4-item spec comparison.
+      </p>
+      <p>
+        <code>React 19</code> <code>TanStack Start</code> <code>TypeScript</code> <code>Tailwind v4</code> <code>Zustand</code> <code>CMDK</code> <code>Vercel</code>
+      </p>
+      <p>
+        <a href="https://marketing-azure-three.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-marketing--azure--three.vercel.app-24D9C7?style=flat-square&labelColor=0F172A" alt="L&A Marketing Connect Live" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Citizen Engagement System <sub><code>Civic Full-Stack App</code></sub></h3>
+      <p>
+        Full-stack municipal issue reporting and resolution portal enabling citizens to submit location-tagged reports and monitor real-time status updates while administrators triage and resolve incidents from a centralized dashboard.
+      </p>
+      <p>
+        <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Supabase</code> <code>Tailwind CSS</code> <code>Vite</code> <code>shadcn/ui</code>
+      </p>
+      <p>
+        <a href="https://cies-bpm.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-cies--bpm.netlify.app-24D9C7?style=flat-square&labelColor=0F172A" alt="CIES Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Technical Arsenal
+## TECHNICAL ARSENAL
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React_19-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TanStack](https://img.shields.io/badge/TanStack_Start%2FRouter-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor_8_(Android)-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Cohesive OLED Dark Surface Badges (#0F172A surface + crisp brand SVG icons) -->
 
-### Backend, APIs & AI
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV_%26_YOLOv8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_%26_Ollama_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React_19-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TanStack_Start-0F172A?style=for-the-badge&logo=tanstack&logoColor=24D9C7" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS v4" />
+  <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=A78BFA" alt="Vite" />
+  <img src="https://img.shields.io/badge/Capacitor_8-0F172A?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor 8" />
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+</p>
 
-### Databases, Cloud & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0c0f14)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Backend, APIs & AI**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=24D9C7" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=8993BE" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/OpenCV_%26_YOLOv8-0F172A?style=for-the-badge&logo=opencv&logoColor=24D9C7" alt="OpenCV & YOLOv8" />
+  <img src="https://img.shields.io/badge/Gemini_%26_Ollama-0F172A?style=for-the-badge&logo=googlegemini&logoColor=60A5FA" alt="Gemini & Ollama" />
+</p>
 
----
-
-## 🏆 Licenses & Certifications
-
-- **National Certificate II (NC II) in Computer Systems Servicing (CSS)** — *TESDA* (`Cert No. 25131402030939` • Valid Nov 2025 – Nov 2030)
-- **Cybersecurity Awareness** — *Cybersecurity Society of the Philippines (CYBERSOCPH) & Bestlink College of the Philippines* (Oct 2026)
-- **Introduction to Laravel** — *Bestlink College of the Philippines, BSIT Dept.* (Oct 2026)
-- **Unlocking AI Potential: The Art and Science of Prompt Engineering** — *Bestlink College of the Philippines, BSIT Dept.* (Oct 2026)
-- **Community AI-IoT Projects: Tackling Real Problems with Solutions** — *Bestlink College of the Philippines, BSIT Dept.* (Oct 2026)
-- **AI-Driven Research Ecosystems** — *Bestlink College of the Philippines, BSIT Dept.* (Oct 2026)
+**Databases, Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=F59E0B" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Figma" />
+</p>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## EXPERIENCE & CREDENTIALS
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=vincenico28&show_icons=true&theme=transparent&title_color=24D9C7&icon_color=31B2E8&text_color=E2E8F0&border_color=1E293B&bg_color=0C0F14&hide_border=false" alt="Vince Nico GitHub Stats" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenico28&layout=compact&theme=transparent&title_color=24D9C7&text_color=E2E8F0&border_color=1E293B&bg_color=0C0F14&hide_border=false" alt="Top Languages" />
+<details open>
+<summary><strong>Work Experience &amp; Background</strong></summary>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=vincenico28&theme=transparent&ring=24D9C7&fire=31B2E8&currStreakLabel=24D9C7&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=1E293B&background=0C0F14" alt="GitHub Streak" />
+- **Freelance Full-Stack Developer** — *System Development (Commission-Based)* `2024 – Present`
+  - Built and deployed custom full-stack web and mobile systems end-to-end across React, Next.js, TypeScript, Node.js, PHP/Laravel, Python/FastAPI, and PostgreSQL/Supabase.
+  - Integrated databases, REST/RPC APIs, role-based authentication, payment gateways, and AI microservices while providing bug resolution, performance tuning, and ongoing support.
+- **Call Center Agent (Calls &amp; Email Support)** — *Flowerstore.ph* `2024`
+  - Managed high-volume voice and email inquiries, resolving customer orders and coordinating time-sensitive logistics escalations.
+- **Active On-Call Operations Crew (All-Around)** — *Lido Cocina Tsina Restaurant* `2022 – Present`
+  - Supported cross-functional kitchen, inventory, and service operations during peak shifts with strong punctuality and teamwork.
+
+</details>
+
+<details>
+<summary><strong>Licenses, Certifications &amp; Education (6 Credentials)</strong></summary>
+
+<br />
+
+| Credential / Program | Issuing Organization | Validity / Date |
+| :--- | :--- | :--- |
+| **National Certificate II (NC II) — Computer Systems Servicing (CSS)** | TESDA (`Cert No. 25131402030939`) | Nov 2025 – Nov 2030 |
+| **Cybersecurity Awareness** | CYBERSOCPH &amp; Bestlink College of the Philippines | Oct 2026 |
+| **Introduction to Laravel** | Bestlink College of the Philippines (BSIT Dept.) | Oct 2026 |
+| **Unlocking AI Potential: The Art and Science of Prompt Engineering** | Bestlink College of the Philippines (BSIT Dept.) | Oct 2026 |
+| **Community AI-IoT Projects: Tackling Real Problems with Solutions** | Bestlink College of the Philippines (BSIT Dept.) | Oct 2026 |
+| **AI-Driven Research Ecosystems** | Bestlink College of the Philippines (BSIT Dept.) | Oct 2026 |
+| **BS Information Technology (BSIT)** | Bestlink College of the Philippines | 2023 – 2026 |
+| **Senior High School (ABM Strand)** | Commonwealth High School | 2020 – 2022 |
+
+</details>
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="172em" src="https://github-readme-stats.vercel.app/api?username=vincenico28&show_icons=true&theme=transparent&title_color=24D9C7&icon_color=22C55E&text_color=E2E8F0&border_color=1E293B&bg_color=0F172A&hide_border=false" alt="GitHub Stats" />
+<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenico28&layout=compact&theme=transparent&title_color=24D9C7&text_color=E2E8F0&border_color=1E293B&bg_color=0F172A&hide_border=false" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=vincenico28&theme=transparent&ring=24D9C7&fire=22C55E&currStreakLabel=24D9C7&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=1E293B&background=0F172A" alt="GitHub Contribution Streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vincenico28&bg_color=0F172A&color=94A3B8&line=24D9C7&point=22C55E&area=true&area_color=24D9C7&hide_border=false&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-Open to **300-Hour OJT / Internships (near Quezon City or Remote)**, **Junior Full-Stack Developer** roles, and **freelance system development** collaborations.
+### LET'S BUILD SOMETHING RELIABLE
+
+Open to **300-Hour OJT / Internships (Quezon City / Hybrid / Remote)**, **Junior Full-Stack Developer** roles, and **commission-based system development**.
 
 <p>
   <a href="https://vincenico28.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-vincenico28.vercel.app-24D9C7?style=for-the-badge&logo=googlechrome&logoColor=0c0f14" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=24D9C7" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vince-nico-escala-b739613ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vince%20Nico%20Escala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   <a href="mailto:Escalavincenico28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email" />
   </a>
   <a href="https://www.facebook.com/vincenico28" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-vincenico28-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=60A5FA" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/vinsoooy28" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-vinsoooy28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0f14,50:0f293a,100:24d9c7&height=95&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0F14,55:0F172A,100:11323A&height=28&section=footer" width="100%" alt="Footer Divider" />
 
 </div>
