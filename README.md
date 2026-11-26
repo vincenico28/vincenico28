@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- OLED Dark-Mode Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0F14,55:0F172A,100:11323A&height=175&section=header&text=VINCE%20NICO%20O.%20ESCALA&fontSize=38&fontColor=F8FAFC&fontAlignY=44&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20Enterprise%20%26%20AI%20Systems%20Architect&descAlignY=68&descSize=15&descColor=94A3B8&animation=fadeIn" width="100%" alt="Vince Nico O. Escala — Full-Stack Web & Mobile Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0F14,55:0F172A,100:11323A&height=175&section=header&text=VINCE%20NICO%20O.%20ESCALA&fontSize=38&fontColor=F8FAFC&fontAlignY=44&desc=Full-Stack%20Web%20%2F%20Mobile%20Developer%20%E2%80%A2%20Enterprise%20%2B%20AI%20Systems%20Architect&descAlignY=68&descSize=15&descColor=94A3B8&animation=fadeIn" width="100%" alt="Vince Nico O. Escala — Full-Stack Web & Mobile Developer" />
 
 <br />
 
 <!-- Terminal Typing Subheader (JetBrains Mono) -->
 <a href="https://vincenico28.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=950&color=24D9C7&center=true&vCenter=true&width=760&height=34&lines=%3E+Full-Stack+Web+%26+Mobile+Developer+%7C+Quezon+City%2C+PH;%3E+React+19+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+FastAPI;%3E+5%2B+Live+Production+Systems+%7C+Commission+System+Dev;%3E+TESDA+NC+II+Certified+(Computer+Systems+Servicing);%3E+Open+to+300-Hour+OJT+%2F+Junior+Full-Stack+Roles" alt="Developer Focus Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=950&color=24D9C7&center=true&vCenter=true&width=760&height=34&lines=%3E+Full-Stack+Web+%2F+Mobile+Developer+%7C+Quezon+City%2C+PH;%3E+React+19+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+FastAPI;%3E+5%2B+Live+Production+Systems+%7C+Commission+System+Dev;%3E+TESDA+NC+II+Certified+(Computer+Systems+Servicing);%3E+Open+to+300-Hour+OJT+%2F+Junior+Full-Stack+Roles" alt="Developer Focus Typing Animation" />
 </a>
 
 <br />
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/ATS_RESUME-DOWNLOAD_PDF-22C55E?style=for-the-badge&logo=readthedocs&logoColor=0C0F14&labelColor=0F172A" alt="Download ATS Resume" />
   </a>
   <a href="https://www.linkedin.com/in/vince-nico-escala-b739613ba" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1E293B?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1E293B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4QkRGOCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&labelColor=0F172A" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:Escalavincenico28@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-1E293B?style=for-the-badge&logo=gmail&logoColor=24D9C7&labelColor=0F172A" alt="Email Vince Nico" />
@@ -199,45 +199,21 @@ export const developer = {
 
 ## TECHNICAL ARSENAL
 
-<!-- Cohesive OLED Dark Surface Badges (#0F172A surface + crisp brand SVG icons) -->
+<!-- Bundled OLED Dark-Mode Skill Icons (3 fast requests instead of 27 separate badge fetches) -->
 
-**Frontend & Mobile**
+**Frontend & Mobile** — `React 19` · `Next.js` · `TypeScript` · `TanStack Start` · `Tailwind CSS v4` · `Vite` · `Capacitor 8 (Android)`
 <p>
-  <img src="https://img.shields.io/badge/React_19-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TanStack_Start-0F172A?style=for-the-badge&logo=tanstack&logoColor=24D9C7" alt="TanStack Start" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS v4" />
-  <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=A78BFA" alt="Vite" />
-  <img src="https://img.shields.io/badge/Capacitor_8-0F172A?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor 8" />
-  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css,androidstudio&theme=dark" alt="Frontend and Mobile Stack" />
 </p>
 
-**Backend, APIs & AI**
+**Backend, APIs & AI Vision** — `Node.js` · `Express` · `Python` · `FastAPI` · `PHP` · `Laravel` · `OpenCV` · `YOLOv8` · `Gemini & Ollama AI`
 <p>
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=24D9C7" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=8993BE" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/OpenCV_%26_YOLOv8-0F172A?style=for-the-badge&logo=opencv&logoColor=24D9C7" alt="OpenCV & YOLOv8" />
-  <img src="https://img.shields.io/badge/Gemini_%26_Ollama-0F172A?style=for-the-badge&logo=googlegemini&logoColor=60A5FA" alt="Gemini & Ollama" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,php,laravel,opencv,pytorch&theme=dark" alt="Backend and AI Stack" />
 </p>
 
-**Databases, Cloud & DevOps**
+**Databases, Cloud & DevOps** — `PostgreSQL (RLS)` · `Supabase` · `MySQL` · `MongoDB` · `Firebase` · `Docker` · `Vercel` · `Git & GitHub` · `Figma`
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=F59E0B" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git & GitHub" />
-  <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,firebase,docker,vercel,git,github,figma&theme=dark" alt="Databases, Cloud and DevOps Stack" />
 </p>
 
 ---
@@ -309,7 +285,7 @@ Open to **300-Hour OJT / Internships (Quezon City / Hybrid / Remote)**, **Junior
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=24D9C7" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vince-nico-escala-b739613ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4QkRGOCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn" />
   </a>
   <a href="mailto:Escalavincenico28@gmail.com">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email" />
