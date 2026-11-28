@@ -268,7 +268,7 @@ export const developer = {
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vincenico28&bg_color=0F172A&color=94A3B8&line=24D9C7&point=22C55E&area=true&area_color=24D9C7&hide_border=false&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincenico28&theme=github_dark" width="96%" alt="GitHub Contribution Activity & Profile Summary" />
 
 </div>
 
