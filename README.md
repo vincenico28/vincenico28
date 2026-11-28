@@ -257,77 +257,20 @@ export const developer = {
 
 ## GITHUB ANALYTICS
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Contribution Metrics</h3>
-      <table>
-        <tr>
-          <td><strong>Total Contributions</strong></td>
-          <td><code>1,034+</code></td>
-        </tr>
-        <tr>
-          <td><strong>Public Repositories</strong></td>
-          <td><code>18</code></td>
-        </tr>
-        <tr>
-          <td><strong>Longest Streak</strong></td>
-          <td><code>58 Days</code> <sub>(Jul 31 – Sep 26)</sub></td>
-        </tr>
-        <tr>
-          <td><strong>Current Streak</strong></td>
-          <td><code>11 Days</code> <sub>(Active)</sub></td>
-        </tr>
-        <tr>
-          <td><strong>Active Since</strong></td>
-          <td><code>Apr 2025</code></td>
-        </tr>
-        <tr>
-          <td><strong>Timezone</strong></td>
-          <td><code>UTC+8</code> <sub>(Philippines)</sub></td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Top Languages Breakdown</h3>
-      <table>
-        <tr>
-          <td><strong>TypeScript</strong></td>
-          <td><code>██████████████░░░░░░</code> <strong>71.8%</strong></td>
-        </tr>
-        <tr>
-          <td><strong>PHP</strong></td>
-          <td><code>██░░░░░░░░░░░░░░░░░░</code> <strong>10.3%</strong></td>
-        </tr>
-        <tr>
-          <td><strong>JavaScript</strong></td>
-          <td><code>█░░░░░░░░░░░░░░░░░░░</code> <strong>6.6%</strong></td>
-        </tr>
-        <tr>
-          <td><strong>CSS</strong></td>
-          <td><code>█░░░░░░░░░░░░░░░░░░░</code> <strong>4.7%</strong></td>
-        </tr>
-        <tr>
-          <td><strong>PLpgSQL</strong></td>
-          <td><code>█░░░░░░░░░░░░░░░░░░░</code> <strong>3.8%</strong></td>
-        </tr>
-        <tr>
-          <td><strong>HTML</strong></td>
-          <td><code>█░░░░░░░░░░░░░░░░░░░</code> <strong>2.7%</strong></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/vincenico28" target="_blank">
-    <img src="https://img.shields.io/github/followers/vincenico28?style=for-the-badge&logo=github&logoColor=24D9C7&color=24D9C7&labelColor=0F172A" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/vincenico28?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/vincenico28?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=22C55E&color=22C55E&labelColor=0F172A" alt="GitHub Stars" />
-  </a>
-</p>
+<img height="172em" src="https://github-readme-stats.vercel.app/api?username=vincenico28&show_icons=true&theme=transparent&title_color=24D9C7&icon_color=22C55E&text_color=E2E8F0&border_color=1E293B&bg_color=0F172A&hide_border=false" alt="GitHub Stats" />
+<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenico28&layout=compact&theme=transparent&title_color=24D9C7&text_color=E2E8F0&border_color=1E293B&bg_color=0F172A&hide_border=false" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=vincenico28&theme=transparent&ring=24D9C7&fire=22C55E&currStreakLabel=24D9C7&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=1E293B&background=0F172A" alt="GitHub Contribution Streak" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincenico28&theme=github_dark" width="96%" alt="GitHub Contribution Activity & Profile Summary" />
+
+</div>
 
 ---
 
