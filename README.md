@@ -261,23 +261,12 @@ export const developer = {
 
 <img height="172em" src="https://github-readme-stats.vercel.app/api?username=vincenico28&show_icons=true&theme=transparent&title_color=24D9C7&icon_color=22C55E&text_color=E2E8F0&border_color=1E293B&bg_color=0F172A&hide_border=false" alt="GitHub Stats" />
 <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenico28&layout=compact&theme=transparent&title_color=24D9C7&text_color=E2E8F0&border_color=1E293B&bg_color=0F172A&hide_border=false" alt="Top Languages" />
-<!-- Full-Width Contribution Activity & Profile Overview -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincenico28&theme=github_dark" width="98%" alt="GitHub Contribution Activity & Profile Details" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=vincenico28&theme=transparent&ring=24D9C7&fire=22C55E&currStreakLabel=24D9C7&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=1E293B&background=0F172A" alt="GitHub Contribution Streak" />
-<!-- 2x2 Cohesive Dark Analytics Grid -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vincenico28&theme=github_dark" width="48%" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vincenico28&theme=github_dark" width="48%" alt="Top Languages by Commit" />
-</p>
 
 <br />
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vincenico28&theme=github_dark&utcOffset=8" width="48%" alt="Productive Coding Hours (UTC+8)" />
-  <img src="https://streak-stats.demolab.com?user=vincenico28&theme=transparent&ring=24D9C7&fire=22C55E&currStreakLabel=24D9C7&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border=30363D&background=0D1117" width="48%" alt="GitHub Contribution Streak" />
-</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincenico28&theme=github_dark" width="96%" alt="GitHub Contribution Activity & Profile Summary" />
 
